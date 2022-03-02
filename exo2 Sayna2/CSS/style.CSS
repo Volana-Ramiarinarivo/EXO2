@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+body{
+    justify-content: center;
+
+}
+header{
+    background-color: #27242b;
+    
+}
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+
+/* menu de navigation */
+
+.box1 ul li{
+    display: inline-flex; 
+    list-style-type: none;
+    margin-left: 30px;
+
+
+}
+.box1 ul li a{
+    font-size: 180%;
+    color: white;
+    text-decoration: none;
+}
+.box2{
+    margin-right: 10%;
+}
+
+.box3 p a{
+    font-size: 150%;
+    color: #3d9f96;
+    font-family: font-family: Open Sans, Arial, sans-serif;
+}
+
+.icone{
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+    
+
+/* contenu en bleu marine */
+
+.button{
+    color: white;
+    font-size: 150%;
+    background-color: #3d9f96;
+    border-radius: 20px 20px;
+    border-color: #3d9f96;
+    background-size: 500%;
+    width: 200px;
+    height: 50px;
+}
+#section1{
+    background-color: #27242b;
+    margin-top: 1.5px;
+}
+.image{
+    text-align: center;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Raleway';
+}
+h3{
+    font-family: 'Raleway';
+    color: #3d9f96;
+}
+#section2{
+    background-color: #fff;
+    text-align: center;
+}
+#contenu1{
+    background-color: rgb(238, 237, 237);
+    background-size: 50px;
+    text-align: center;
+    margin-top: -3%;
+    padding: 4%;
+}
+#grenn-text{
+    text-align: center;
+    font-family: Open Sans, Arial, sans-serif;
+    font-size: 40px;
+    margin-top: 20%;
+}
+#contenu3{
+    background-image: url('/assets/img/map_bg.png');
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 10%;
+
+}
+.nav1 ul li{
+    display: inline-flex;
+    list-style-type: none;
+    margin-left: -40%;
+}
+
+.nav3 ul{
+    list-style-type: none;
+    margin-left: -20%;
+    margin-right: -45%;
+}
+.nav3 ul li{
+    display: inline-flex;
+}
+.nav ul li img{
+    margin-top: 0%;
+    padding: -10%;
+} 
+
+#section3{
+    justify-content: center;
+    padding:5%;
+    padding-top: -15%;
+    text-align: center;
+}
+.nav2{ 
+    background-image: url(/assets/img/image_190px_1.png);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 800px;
+    margin-right: 50px;
+    margin-top: -4%;
+
+}
+.nav2 img{
+    width: 90px;
+    height: 20%;
+    margin-top: 80%;
+    margin-left: 35%;
+}
+
+
+#section4{
+    background-color: rgb(226, 221, 221);
+    padding: 10%;
+    margin-top: -2.5%;
+    justify-content: center;
+}
+#sreenshots{
+    display: flex;
+    justify-content: space-evenly;
+}
+#section5{
+    display: flex;
+    justify-content: center; 
+    margin-top: 10%;
+}
+.box01{
+    margin-right: 20%;
+}
+
+#section6{
+    background-color: rgb(233, 231, 231);
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.sayna{
+    margin-right: 30%;
+    margin-top: 5%;
+}
+.info{
+    margin-left: -20%;
+    margin-top: 5%;
+}
+.contact{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#footer{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.logo{
+    justify-content: space-between;
+    margin-top: 1%;
+}
